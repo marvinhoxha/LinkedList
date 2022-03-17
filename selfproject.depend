@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632742131 source:c:\users\marvi\books\programming\s2 c\selfproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1635279386 source:c:\users\marvi\books\first year\programming\s2 c\selfproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
